@@ -1,0 +1,7 @@
+# 统一以 LF 存储文本文件，避免 Windows / macOS 协作时出现换行符差异
+* text=auto eol=lf
+
+# 图片等二进制素材不做换行符转换
+*.png binary
+*.jpg binary
+*.ico binary

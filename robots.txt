@@ -1,0 +1,6 @@
+# 拾野茶集官网 robots.txt（课程实践虚拟站点）
+User-agent: *
+Allow: /
+Disallow: /assets/images/README.md
+
+Sitemap: https://301031.github.io/shiyetea-website/sitemap.xml
